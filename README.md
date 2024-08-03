@@ -1,3 +1,1 @@
-This is Labotory, the browser based operating system for all devices.
-
-![IMG_0872](https://github.com/Weno-Inc/Labortory/assets/170777576/1219f88c-a46d-4a4f-909d-fe1034e988a1)
+This repository has been moved into another organization, for the latest news and updates about the Labotory Console operating system, please visit this following link: https://github.com/Labotory
